@@ -28,12 +28,13 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Giphy](https://giphy.com/apps/giphycapture).
 
 ## Notes
 
  - Video walkthrough was a bit outdated, so some Android Studio updates and changes had to be implented instead of the walkthrough's with this app 
  - The guide sometimes fixed errors/warnings off camera, which added confusion to why own code wasn't working for a bit
+ - LiceCap was incompatible as of now with MacOS Big Sur, so Giphy was used instead
 
 ## License
 
